@@ -21,7 +21,7 @@ $ pip install -r requirements.txt
 To run the script, simply enter:
 
 ```
-$ python main.py --login your_login@email.com --password your_password
+$ python main.py
 ```
 Then enter your LinkedIn login and password on the terminal when requested.
 The project will generate a CSV file with job data from the listings.
